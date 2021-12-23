@@ -1,2 +1,3 @@
+View Site
 
-![Kith-x-Looney-Tunes-Bugs-Bunny-2-scaled-1920x2400](https://user-images.githubusercontent.com/57364788/147298431-a25cf045-daaf-4fab-a55a-621deded3702.jpg)
+![Moje CV](https://user-images.githubusercontent.com/57364788/147298879-4cfee7b5-ccd6-47c6-ab81-872b27139d60.png)
